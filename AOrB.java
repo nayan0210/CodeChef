@@ -1,4 +1,7 @@
 //Question 728
+
+import java.util.Scanner;
+
 public class AOrB {
     public static void main (String[] args) throws java.lang.Exception
 	{

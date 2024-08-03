@@ -19,6 +19,7 @@ public class Airlines {
             
             System.out.println(requiredPlane);
             System.out.println(requiredPlane);
+            System.out.println(requiredPlane);
         }
         sc.close(); // Close the Scanner object
     }
